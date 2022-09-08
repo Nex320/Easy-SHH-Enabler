@@ -1,4 +1,4 @@
-# Easy-SHH-Enabler
+# Easy-SSH-Enabler
 Easily enable SSH Server with the help of this python script
 
 just run in your terminal like so:
